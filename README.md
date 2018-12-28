@@ -1,3 +1,6 @@
+# Deprecated
+Please use [XDagger/explorer](https://github.com/XDagger/explorer), development continues there.
+
 # XDAG Block Explorer
 
 To install:
